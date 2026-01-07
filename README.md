@@ -1,4 +1,4 @@
-# 📚 KwikBook
+# 📚 QwikBook
 
 Welcome to **KwikBook**, the Android Library Management System! This app streamlines library operations, providing a secure and user-friendly experience. Developed with Java and XML, and powered by SQLite for robust database management.
 
